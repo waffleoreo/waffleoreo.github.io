@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Data Science Portfolio"
+title                    : "Raphael Mari Ongleo"
 title_separator          : ","
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Raph Ongleo"
+name                     : "Raph"
 description              : "A Data Science Blog."
 url                      : "https://waffleoreo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Raph Ongleo"
+  name             : "Raph"
   avatar           : "/images/raph.jpg"
   bio              : "Data Science, Analytics, Volunteer"
   location         : "Philippines"
-  email            :
+  email            : "ongleo.raphael@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
